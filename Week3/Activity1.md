@@ -18,7 +18,10 @@
 
 <img width="598" alt="4th" src="https://github.com/Ankit16727/OPS145_SLG/assets/120432770/cf97268c-f0e8-4fec-9af2-aec4d8aaf682">
 
-#### 5. As the directory management commands will be used again and again, create a shortcut to the ‘DirectoryManagement’ directory in the ‘Desktop’ folder.
+#### 5. As the directory management commands will be used again and again, create a shortcut to the ‘DirectoryManagement’ directory in the ‘Desktop’ folder and name it as 'DirectoryManagementSt'.
+
+<img width="598" alt="Fifth" src="https://github.com/Ankit16727/OPS145_SLG/assets/120432770/459474ed-ada2-4718-a71b-fc58d5a546c5">
+
 
 #### 6. Create a backup of the ‘DirectoryManagement’ directory in the ‘Backups’ directory and name it as ‘DirectoryManagementBk’ (If we change the content of the ‘DirectoryManagement’, it should automatically be reflected in the ‘DirectoryManagementBk’ directory).
 
