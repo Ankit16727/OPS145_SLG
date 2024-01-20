@@ -11,4 +11,4 @@
 
 #### Above are just random topics listed. All the topic names are in lower case. Surprisingly, the course is such that all the topics needs to be taught in a reverse alphabetical order (the topic that starts with 'z' is taught first than that starts with 'a'). The topic names in the file are mixed up. Is there any way you can make it easy for the instuctor to search for the topics to be taught? (Maybe think of sorting !!!) 
 
-#### Follow up: Can you provide a solution if topic names are in mixed case (upper and lowercase both) ? .
+#### Follow up: Can you provide a solution if topic names are in mixed case (upper and lowercase both) ? 
