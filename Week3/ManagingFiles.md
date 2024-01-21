@@ -1,5 +1,7 @@
 # Assume the home directory is ‘/home/user’. The below diagram shows the file structure of the ‘Courses’ directory which is located in the home directory.
 
+## Answer the questions assuming that the current working directory is unknown.
+
 <img width="154" alt="original" src="https://github.com/Ankit16727/OPS145_SLG/assets/120432770/5edf9c07-2c86-46ab-a65f-940c7f9f4719">
 
 #### 1. The user wants to know all the CS(Computer Science) related courses. Write a command to view all the course files that starts with ‘cs’ in the ‘Courses’ directory (including all the sub directories). 
