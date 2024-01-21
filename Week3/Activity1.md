@@ -24,6 +24,8 @@
 
 #### 5. As the directory management commands will be used again and again, create a shortcut to the ‘DirectoryManagement’ directory in the ‘Desktop’ folder and name it as 'DirectoryManagementSt'.
 
+#### In the below diagram relative path ‘../Documents...’ is used, use the one taught in session ‘/home/user...’
+
 <img width="598" alt="Fifth" src="https://github.com/Ankit16727/OPS145_SLG/assets/120432770/459474ed-ada2-4718-a71b-fc58d5a546c5">
 
 
