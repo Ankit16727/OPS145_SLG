@@ -1,8 +1,10 @@
 # Assume the home directory is ‘/home/user’. The below diagram shows the file structure of the ‘MyPC’ directory which is located in the home directory.
 
+## Answer the questions assuming that the current working directory is unknown.
+
 <img width="230" alt="Original" src="https://github.com/Ankit16727/OPS145_SLG/assets/120432770/f8f2ac20-d05c-4008-ad8a-9fb7e4fc7107">
 
-## Answer the questions assuming that the current working directory is unknown.
+
 
 
 #### 1. The user uses the ‘mkdir.txt’ file quite frequently. It is difficult for the user to access the ‘mkdir.txt’ file as the user needs to go through the path ‘/home/user/MyPC/Documents/Week2/DirectoryManagement/mkdir.txt’ to access the file. Can you help the user to create a shortcut of the ‘mkdir.txt’ file in the ‘Desktop’ directory with the name ‘mkdirSt’ so that user can access the file easily.
