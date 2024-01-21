@@ -10,7 +10,7 @@
    
 <img width="888" alt="Second" src="https://github.com/Ankit16727/OPS145_SLG/assets/120432770/b66632f6-8bd5-4047-8d59-7747ba53cd64">
 
-#### 3. As the ‘mkdir.txt’ file is important, create a backup of the file ‘mkdir.txt’ and name it as ‘mkdirBk’ in the ‘Backups’ directory as shown in the above diagram. (If the ‘mkdir.txt’ file content is modified, it’s automatically reflected in the ‘mkdirBk’ and vice-versa).
+#### 3. As the ‘mkdir.txt’ file is important, create a backup of the file ‘mkdir.txt’ and name it as ‘mkdirBk’ in the ‘Backups’ directory as shown in the below diagram. (If the ‘mkdir.txt’ file content is modified, it’s automatically reflected in the ‘mkdirBk’ and vice-versa).
 
 <img width="601" alt="third" src="https://github.com/Ankit16727/OPS145_SLG/assets/120432770/eadb0a77-2114-4dab-a552-1221e56eda3d">
 
